@@ -7,8 +7,8 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['94775434030', '𝑀𝓇. 𝐻𝑒𝓈𝒽𝒶𝓃', true],
-  ['14245296612', 'Jasmine ✨️', true], 
+  ['14245296612', 'Owner', true],
+  ['14245296612', 'Jasmine', true], 
   [''] 
 ] //Number of owners
 
@@ -47,7 +47,7 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'Jasmine ✨️'
+global.botname = 'Jasmine'
 global.premium = 'true'
 global.packname = 'GURU┃ᴮᴼᵀ' 
 global.author = '@Asliguru' 
